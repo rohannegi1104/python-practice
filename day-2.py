@@ -1,0 +1,1 @@
+print("hello i am good boy/girl\nand this viwer is also a good bou/girl")
